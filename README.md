@@ -5,6 +5,7 @@ Gymbo
 
 # Kolegij: 
 Mobilne aplikacije
+
 Fakultet informatike u Puli (https://fipu.unipu.hr/)
 
 # Mentor:
